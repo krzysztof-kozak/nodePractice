@@ -1,0 +1,33 @@
+[
+  {
+    "text": "Które miasto jest stolicą Polski?",
+    "answers": [
+      { "text": "Warszawa", "id": "a", "score": 1 },
+      { "text": "Kraków", "id": "b", "score": 0 },
+      { "text": "Gniezno", "id": "c", "score": 0 },
+      { "text": "Radom", "id": "d", "score": 0 }
+    ]
+  },
+  {
+    "text": "W którym roku została wydana pierwsza publiczna wersja REACT-a?",
+    "answers": [
+      { "text": "2011", "id": "a", "score": 0 },
+      { "text": "2012", "id": "b", "score": 0 },
+      { "text": "2013", "id": "c", "score": 1 },
+      { "text": "2014", "id": "d", "score": 0 }
+    ]
+  },
+  {
+    "text": "Co oznacza skrót npm?",
+    "answers": [
+      { "text": "Node Package Manager", "id": "a", "score": 0 },
+      { "text": "Nervous Parrot Muttering", "id": "b", "score": 1 },
+      { "text": "Norwegian Polka Music", "id": "c", "score": 1 },
+      {
+        "text": "npm, Inc. to po prostu nazwa firmy, a skrót oznacza to... co chcemy, żeby oznaczał :)",
+        "id": "d",
+        "score": 1
+      }
+    ]
+  }
+]
